@@ -2,7 +2,7 @@
 
 Neural networks are machine learning programs or models that make decisions similar to the human brain. They are a set of algorithms that use software and hardware to process information and can change their form based on the data they analyze.
 
-Every neural network layer consists of nodes, through which the data is processed, analyzed, and an output is generated. 
+Every neural network layer consists of nodes, through which the data is processed, analyzed, and an output is generated. These nodes are passed through the layers having certain weights according to which the output of the certain neuron depends. The weights are then turned using various parameters to get the most desired output.
 
 ## Layers of Neural Networks
 
